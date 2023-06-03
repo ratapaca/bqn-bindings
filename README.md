@@ -8,4 +8,5 @@ To generate the image below run:
 ```
 bqn cairo_example.bqn 
 ```
-![cairo_example](https://github.com/ratapaca/bqn-bindings/assets/18489686/4fcb402c-8a5e-451a-93fe-e23f56f66cf2)
+![cairo_example](https://github.com/ratapaca/bqn-bindings/assets/18489686/246e59b6-9aef-4802-90d1-701a0651abf9)
+
